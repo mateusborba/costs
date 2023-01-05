@@ -1,0 +1,104 @@
+{
+  "projects": [
+    {
+      "projectName": "Projeto atualizado 123",
+      "budget": "20000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 200,
+      "services": [
+        {
+          "name": "teste 2",
+          "cost": "200",
+          "description": "teste desc",
+          "id": "ffbcb196-c88f-436d-a15a-a4c1068a0f6a"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "projectName": "dsadasdas",
+      "budget": "312312312",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "budget": "1000",
+      "projectName": "Projeto teste",
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Serviço novo",
+          "cost": "200",
+          "description": "Testando pra ver se funfa",
+          "id": "1d84ec33-064e-483a-90dd-01f040327c01"
+        },
+        {
+          "name": "Serviço novo",
+          "cost": "200",
+          "description": "Testando pra ver se funfa",
+          "id": "1d84ec33-064e-483a-90dd-01f040327c01"
+        },
+        {
+          "name": "Serviço novo",
+          "cost": "200",
+          "description": "Testando pra ver se funfa",
+          "id": "1d84ec33-064e-483a-90dd-01f040327c01"
+        },
+        {
+          "name": "Serviço novo",
+          "cost": "200",
+          "description": "Testando pra ver se funfa",
+          "id": "1d84ec33-064e-483a-90dd-01f040327c01"
+        },
+        {
+          "name": "Serviço novo",
+          "cost": "200",
+          "description": "Testando pra ver se funfa",
+          "id": "1d84ec33-064e-483a-90dd-01f040327c01"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "projectName": "Projeto react-native",
+      "budget": "20000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "name": "Infra",
+      "id": 1
+    },
+    {
+      "name": "Desenvolvimento",
+      "id": 2
+    },
+    {
+      "name": "Design",
+      "id": 3
+    },
+    {
+      "name": "Planejamento",
+      "id": 4
+    }
+  ]
+}
